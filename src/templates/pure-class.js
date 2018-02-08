@@ -1,9 +1,9 @@
-import React, { PureComponent } from "react";
+import React, { PureComponent } from 'react'
 
 class COMPONENT_NAME extends PureComponent {
-  render() {
-    return <div />;
+  render () {
+    return <div />
   }
 }
 
-export default COMPONENT_NAME;
+export default COMPONENT_NAME

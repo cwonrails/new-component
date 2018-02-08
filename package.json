@@ -19,7 +19,9 @@
   },
   "dependencies": {
     "chalk": "2.3.0",
-    "commander": "2.14.1",
-    "prettier": "1.10.2"
+    "commander": "2.14.1"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0-beta.0"
   }
 }
